@@ -1,0 +1,14 @@
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\bin\Release\Kyrsovay_PCOIB.exe.config
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\bin\Release\Kyrsovay_PCOIB.exe
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\bin\Release\Kyrsovay_PCOIB.pdb
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\obj\Release\Kyrsovay_PCOIB.Black_list.resources
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\obj\Release\Kyrsovay_PCOIB.Black_list_add.resources
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\obj\Release\Kyrsovay_PCOIB.Properties.Resources.resources
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\obj\Release\Kyrsovay_PCOIB.Start_Window.resources
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\obj\Release\Kyrsovay_PCOIB.White_list.resources
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\obj\Release\Kyrsovay_PCOIB.White_list_add.resources
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\obj\Release\Kyrsovay_PCOIB.csproj.GenerateResource.cache
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\obj\Release\Kyrsovay_PCOIB.csproj.CoreCompileInputs.cache
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\obj\Release\Kyrsovay_PCOIB.exe
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\obj\Release\Kyrsovay_PCOIB.pdb
+C:\Users\vlad_\source\repos\Kyrsovay_PCOIB\Kyrsovay_PCOIB\obj\Release\Kyrsovay_PCOIB.csprojAssemblyReference.cache

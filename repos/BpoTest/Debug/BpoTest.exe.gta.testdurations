@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\vlad_\source\repos\BpoTest\Debug\BpoTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestFoo.test1" Duration="1" />
+    <TestDuration Test="TestFoo.test2" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

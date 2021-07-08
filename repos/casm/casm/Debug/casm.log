@@ -1,0 +1,4 @@
+﻿  casm.c
+c:\users\vlad_\source\repos\casm\casm\casm.c(140): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+casm.obj : error LNK2019: ссылка на неразрешенный внешний символ _Ddelarr в функции _main
+C:\Users\vlad_\source\repos\casm\Debug\casm.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

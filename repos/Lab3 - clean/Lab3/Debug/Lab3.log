@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\vlad_\source\repos\lab3 - clean\lab3\main.cpp(240): warning C4838: преобразование из "int" в "CK_ULONG" требует сужающего преобразования
+c:\users\vlad_\source\repos\lab3 - clean\lab3\main.cpp(261): warning C4838: преобразование из "int" в "CK_ULONG" требует сужающего преобразования
+c:\users\vlad_\source\repos\lab3 - clean\lab3\main.cpp(396): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vlad_\source\repos\lab3 - clean\lab3\main.cpp(480): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vlad_\source\repos\lab3 - clean\lab3\main.cpp(510): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note:  см. объявление "strncpy"
+c:\users\vlad_\source\repos\lab3 - clean\lab3\main.cpp(529): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note:  см. объявление "strncpy"
+c:\users\vlad_\source\repos\lab3 - clean\lab3\main.cpp(569): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note:  см. объявление "strncpy"
+c:\users\vlad_\source\repos\lab3 - clean\lab3\main.cpp(543): warning C4101: c: неиспользованная локальная переменная
+  Lab3.vcxproj -> C:\Users\vlad_\source\repos\Lab3 - clean\Debug\Lab3.exe

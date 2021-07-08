@@ -1,0 +1,5 @@
+﻿  NPV_IRR.cpp
+c:\users\vlad_\source\repos\npv_irr\npv_irr\npv_irr.cpp(21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\vlad_\source\repos\npv_irr\npv_irr\npv_irr.cpp(28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\vlad_\source\repos\npv_irr\npv_irr\npv_irr.cpp(39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  NPV_IRR.vcxproj -> C:\Users\vlad_\source\repos\NPV_IRR\Debug\NPV_IRR.exe
